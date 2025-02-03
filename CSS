@@ -1,0 +1,26 @@
+h1{
+    taxt-align: center;
+    border:1px solid black;
+    border=radius:10px;
+    color : black
+}
+
+p span{
+    color: green;
+}
+
+section{
+    border:1px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a{
+    background-color: red;
+    color: beige;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+  
+    
